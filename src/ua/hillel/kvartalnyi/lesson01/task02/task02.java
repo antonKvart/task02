@@ -2,7 +2,7 @@ package ua.hillel.kvartalnyi.lesson01.task02;
 
 import java.util.Random;
 
-public class task02 {
+public class Task02 {
     public static void main(String[] args) {
         int mas[][];
         mas = new int[10][10];
